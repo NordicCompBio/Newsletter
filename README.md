@@ -18,4 +18,4 @@ In the file describe:
 Happy sharing! 🦖 :bowtie: 
 
 ~ Nordic CompBio Team
-E-mail: [nordic.compbio@gmail.com](nordic.compbio@gmail.com]
+E-mail: nordic.compbio@gmail.com
