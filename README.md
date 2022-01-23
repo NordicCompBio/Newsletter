@@ -17,5 +17,11 @@ In the file describe:
 
 Happy sharing! 🦖 :bowtie: 
 
-~ Nordic CompBio Team <br>
-E-mail: nordic.compbio@gmail.com
+#### ~ Nordic CompBio Team
+Subscribe at: [bit.ly/ncb-newsletter](https://bit.ly/ncb-newsletter)<br>
+<p align="left">
+  <a href="https://twitter.com/NordicCompBio"><img src="https://img.icons8.com/color/50/000000/twitter-squared.png" alt="Twitter"/></a>
+  <a href="https://www.linkedin.com/company/nordic-compbio/"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.youtube.com/channel/UCy94PIIziV318QL1bF7Z8TA"><img src="https://img.icons8.com/color/50/000000/youtube.png" alt="YouTube"/></a>
+  <a href="mailto:nordic.compbio@gmail.com"><img src="https://img.icons8.com/color/50/000000/gmail.png" alt="Gmail"/></a>
+</p>
