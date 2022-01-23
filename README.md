@@ -1,10 +1,12 @@
 # Nordic CompBio Newsletter
 Content suggestions for Nordic CompBio Newsletter.
+<!--- Replace line with what is the aim/goal of NCB newsletter.
+!--->
 
 ## What is the purpose of this repository? 
 Here, you are able to contribute to the content of Nordic CompBio Newsletters. 
-This could be good for any PI or researcher that wants to initiate a collaboration, 
-or simply a good way to share an interesting article, or a personal story.
+This could be good for any academic or industrial researcher that wants to initiate a collaboration, 
+or simply a good way to share an interesting article/study, pipeline, project, job position, and/or any relevant story.
 
 ## What do I do to contribute?
 Fork the directory and add a new text file to the directory. 
