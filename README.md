@@ -17,5 +17,5 @@ In the file describe:
 
 Happy sharing! 🦖 :bowtie: 
 
-~ Nordic CompBio Team
+~ Nordic CompBio Team <br>
 E-mail: nordic.compbio@gmail.com
