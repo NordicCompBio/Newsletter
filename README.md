@@ -17,10 +17,10 @@ In the file describe:
 * An approximate time when you want it to be published (e.g. if you prefer to have it shared later in the year due to an opening position in your research group)
 * Your contact information (name, affiliation, e-mail address), so that we can reach out to you in order to finalize the content.
 
-Happy sharing! 🦖 :bowtie: 
+Happy sharing! 🦖
 
-#### ~ Nordic CompBio Team
-Subscribe at: [bit.ly/ncb-newsletter](https://bit.ly/ncb-newsletter)<br>
+#### ~Nordic CompBio Team
+*Subscribe at: [bit.ly/ncb-newsletter](https://bit.ly/ncb-newsletter)*<br>
 <p align="left">
   <a href="https://twitter.com/NordicCompBio"><img src="https://img.icons8.com/color/50/000000/twitter-squared.png" alt="Twitter"/></a>
   <a href="https://www.linkedin.com/company/nordic-compbio/"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>
