@@ -3,6 +3,8 @@ Content suggestions for Nordic CompBio Newsletter.
 <!--- Replace line with what is the aim/goal of NCB newsletter.
 !--->
 
+<img width="300" alt="ncb_logo" src="https://user-images.githubusercontent.com/6730853/139441283-ae67512d-d219-4f4f-ba12-8b0c408c71e5.png">
+
 ## What is the purpose of this repository? 
 Here, you are able to contribute to the content of Nordic CompBio Newsletters. 
 This could be good for any academic or industrial researcher that wants to initiate a collaboration, 
