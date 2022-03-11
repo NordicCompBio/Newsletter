@@ -5,7 +5,7 @@
 ## What is the purpose of this repository? 
 Here, you are able to contribute to the content of NCB Newsletters. 
 This could be good for any academic or industrial researcher that wants to initiate a collaboration, 
-or simply a good way to share an interesting article/study, pipeline, project, job position, and/or any relevant information.
+or simply a good way to share an interesting article/study, pipeline, project, job position, upcoming event, and/or any relevant information.
 
 ## How do I contribute?
 Fork the directory and add a new text file to the directory. 
