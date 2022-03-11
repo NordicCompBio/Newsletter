@@ -1,5 +1,7 @@
 # Nordic CompBio (NCB) Newsletter
 
+At the NCB, we aim to share latest research and events happening in computational biology areas across the Nordic region.
+
 <img width="200" alt="ncb_logo" src="https://user-images.githubusercontent.com/6730853/139441283-ae67512d-d219-4f4f-ba12-8b0c408c71e5.png">
 
 ## What is the purpose of this repository? 
@@ -12,8 +14,8 @@ Fork the directory and add a new text file to the directory.
 
 Index the file through adding a date in YYYY-MM-DD format, before the file name. 
 In the file describe: 
-* The content that you wish to include
-* An approximate time when you want it to be published (e.g. if you prefer to have it shared later in the year due to an opening position in your research group)
+* The content that you wish to include.
+* An approximate time when you want it to be published e.g. if you prefer to have it shared later in the year due to an opening position in your research group.
 * Your contact information (name, affiliation, e-mail address), so that we can reach out to you in order to finalize the content.
 
 <!--- If you wish to use a template, please fork the repo and fill out the template document--->
