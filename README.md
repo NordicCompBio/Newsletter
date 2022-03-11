@@ -1,14 +1,13 @@
-# Nordic CompBio Newsletter
-Content suggestions for Nordic CompBio Newsletter.
-<!--- Replace line with what is the aim/goal of NCB newsletter.
-!--->
+# Nordic CompBio (NCB) Newsletter
+
+NCB newsletter aims to
 
 <img width="200" alt="ncb_logo" src="https://user-images.githubusercontent.com/6730853/139441283-ae67512d-d219-4f4f-ba12-8b0c408c71e5.png">
 
 ## What is the purpose of this repository? 
-Here, you are able to contribute to the content of Nordic CompBio Newsletters. 
+Here, you are able to contribute to the content of NCB Newsletters. 
 This could be good for any academic or industrial researcher that wants to initiate a collaboration, 
-or simply a good way to share an interesting article/study, pipeline, project, job position, and/or any relevant story.
+or simply a good way to share an interesting article/study, pipeline, project, job position, and/or any relevant information.
 
 ## How do I contribute?
 Fork the directory and add a new text file to the directory. 
