@@ -18,6 +18,8 @@ In the file describe:
 * An approximate time when you want it to be published (e.g. if you prefer to have it shared later in the year due to an opening position in your research group)
 * Your contact information (name, affiliation, e-mail address), so that we can reach out to you in order to finalize the content.
 
+<!--- If you wish to use a template, please fork the repo and fill out the template document--->
+
 ## Contribution Guideline
 
 Happy sharing! 🦖
