@@ -10,13 +10,15 @@ This could be good for any academic or industrial researcher that wants to initi
 or simply a good way to share an interesting article/study, pipeline, project, job position, upcoming event, and/or any relevant information.
 
 ## How do I contribute?
-Fork the directory and add a new text file to the directory. 
+1. Fork the repository and add a new text file to the directory. 
 
 Index the file through adding a date in YYYY-MM-DD format, before the file name. 
 In the file describe: 
 * The content that you wish to include.
 * An approximate time when you want it to be published e.g. if you prefer to have it shared later in the year due to an opening position in your research group.
 * Your contact information (name, affiliation, e-mail address), so that we can reach out to you in order to finalize the content.
+
+2. Download our content submission template, fork the repo, and send PR with updated file.
 
 #
 
