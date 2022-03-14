@@ -23,7 +23,7 @@ In the file describe:
 Happy sharing! 🦖
 
 #### ~Nordic CompBio Team
-*Subscribe at: [bit.ly/ncb-newsletter](https://nordic-compbio.org/news)*<br>
+*Subscribe at: [https://nordic-compbio.org/news](https://nordic-compbio.org/news)*<br>
 <p align="left">
   <a href="https://twitter.com/NordicCompBio"><img src="https://img.icons8.com/color/50/000000/twitter-squared.png" alt="Twitter"/></a>
   <a href="https://www.linkedin.com/company/nordic-compbio/"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>
